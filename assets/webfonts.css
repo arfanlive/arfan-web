@@ -1,0 +1,141 @@
+@font-face {
+	font-family: 'bangla';
+	src: url('bangla/bangla.eot');
+	src: local('?'), 
+	url('bangla/bangla.woff') format('woff'), 
+	url('bangla/bangla.ttf') format('truetype'), 
+	url('bangla/bangla.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'neotech-bold';
+	src: url('neotech-bold.eot');
+	src: local('?'), 
+	url('neotech-bold.woff') format('woff'), 
+	url('neotech-bold.ttf') format('truetype'), 
+	url('neotech-bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'neotech-regular';
+	src: url('neotech-regular.eot');
+	src: local('?'), 
+	url('neotech-regular.woff') format('woff'), 
+	url('neotech-regular.ttf') format('truetype'), 
+	url('neotech-regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'neotech-light';
+	src: url('neotech-light.eot');
+	src: local('?'), 
+	url('neotech-light.woff') format('woff'), 
+	url('neotech-light.ttf') format('truetype'), 
+	url('neotech-light.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'robotocondensedregular';
+    src: url('roboto_condensed/RobotoCondensed-Regular-webfont.eot');
+    src: url('roboto_condensed/RobotoCondensed-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('roboto_condensed/RobotoCondensed-Regular-webfont.woff') format('woff'),
+         url('roboto_condensed/RobotoCondensed-Regular-webfont.ttf') format('truetype'),
+         url('roboto_condensed/RobotoCondensed-Regular-webfont.svg#roboto_condensedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'robotoboldcondensed';
+    src:url('roboto-bold-condensed/Roboto-Bold-Condensed.ttf.woff') format('woff'),
+        url('roboto-bold-condensed/Roboto-Bold-Condensed.ttf.svg#Roboto-Bold-Condensed') format('svg'),
+        url('roboto-bold-condensed/Roboto-Bold-Condensed.ttf.eot'),
+        url('roboto-bold-condensed/Roboto-Bold-Condensed.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+
+@font-face {
+    font-family: 'peroregular';
+    src: url('pero-regular/pero-regular.eot');
+    src: url('pero-regular/pero-regular.eot?#iefix') format('embedded-opentype'),
+         url('pero-regular/pero-regular.woff2') format('woff2'),
+         url('pero-regular/pero-regular.woff') format('woff'),
+         url('pero-regular/pero-regular.ttf') format('truetype'),
+         url('pero-regular/pero-regular.svg#peroregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'peroextrabold';
+    src: url('pero-extrabold/pero-extrabold.eot');
+    src: url('pero-extrabold/pero-extrabold.eot?#iefix') format('embedded-opentype'),
+         url('pero-extrabold/pero-extrabold.woff2') format('woff2'),
+         url('pero-extrabold/pero-extrabold.woff') format('woff'),
+         url('pero-extrabold/pero-extrabold.ttf') format('truetype'),
+         url('pero-extrabold/pero-extrabold.svg#peroextrabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'perosemilight';
+    src: url('pero-semilight/pero-semilight.eot');
+    src: url('pero-semilight/pero-semilight.eot?#iefix') format('embedded-opentype'),
+         url('pero-semilight/pero-semilight.woff2') format('woff2'),
+         url('pero-semilight/pero-semilight.woff') format('woff'),
+         url('pero-semilight/pero-semilight.ttf') format('truetype'),
+         url('pero-semilight/pero-semilight.svg#perosemilight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'perobold';
+    src: url('pero-bold/pero-bold.eot');
+    src: url('pero-bold/pero-bold.eot?#iefix') format('embedded-opentype'),
+         url('pero-bold/pero-bold.woff2') format('woff2'),
+         url('pero-bold/pero-bold.woff') format('woff'),
+         url('pero-bold/pero-bold.ttf') format('truetype'),
+         url('pero-bold/pero-bold.svg#perobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'perolight';
+    src: url('pero-light/pero-light.eot');
+    src: url('pero-light/pero-light.eot?#iefix') format('embedded-opentype'),
+         url('pero-light/pero-light.woff2') format('woff2'),
+         url('pero-light/pero-light.woff') format('woff'),
+         url('pero-light/pero-light.ttf') format('truetype'),
+         url('pero-light/pero-light.svg#perolight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+

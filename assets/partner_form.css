@@ -1,0 +1,65 @@
+
+/*////////////////////
+partner form start
+///////////////////*/
+
+.partner-form .well{ background-color:#4390A9; padding:10px; color:#fff;}
+
+.form-control-bottom-margin{
+	display:block;
+	margin-bottom: 15px;
+}
+
+
+
+@media only screen and (min-width: 992px) {
+
+	.title-light{
+		margin-top: -35px;
+		margin-bottom: -20px;
+	}
+	
+}
+.resaller_form .control-label{font-size:13px}
+@media only screen and (max-width: 768px) {
+	.resaller_form .control-label{font-size:13px;margin-bottom:5px; margin-top:20px;  color:#444;}    
+}
+
+
+.btn-file{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    background-color: ##2E9499;
+	border:0;
+    border-bottom:2px solid #17A6E2;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	width:40px!important;
+	padding-top:8px;
+	height:34px;
+}
+.btn-file:hover{
+	background-color: #1a919a;
+	border-bottom:2px solid #17A6E2;
+}
+.input-group-addon i{color:#17A6E2;}
+.help-block{font-size:13px;}
+
+.file-label{
+	font-size:13px;	line-height: 1.42857143;color: #333;
+	display:block;
+	margin-bottom:5px;
+}
+
+.agent-contact .control-label{padding-left:15px;font-size:15px;font-weight:normal;}
+
+.mobile-faq ul li{margin-bottom: 20px;}
+
+.btn-file{height: 40px;bottom:-40px;}
+.input-group-btn input[type=text]{padding-left: 50px; font-weight:normal;}
+
+
